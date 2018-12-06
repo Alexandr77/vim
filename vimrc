@@ -43,6 +43,8 @@ nmap <silent> <leader>[ :bprevious<CR>
 nmap <leader>q :bp <BAR> bd #<CR>
 " Show all open buffers and their status
 nmap <leader>bl :ls<CR>
+" Open file
+nmap <leader>o :CtrlP<CR>
 
 "
 set list

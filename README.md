@@ -1,7 +1,9 @@
 # vim
 vim settings
 
-```git clone https://github.com/corneliu/vim ~/vim  
+Install pathogen before
+
+git clone https://github.com/Alexandr77/vim  
 cd ~/vim  
 git submodule update --init --recursive  
 cd ..  
